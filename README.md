@@ -8,6 +8,8 @@ Features
    
 Components
 Arduino Uno
-LDR Sensors
-Servo Motor
-Solar Panel
+,LDR Sensors
+S,ervo Motor
+,Solar Panel
+
+// Original code from a Tinkercad project

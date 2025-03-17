@@ -9,7 +9,7 @@ Features
 Components
 Arduino Uno
 ,LDR Sensors
-S,ervo Motor
+,Servo Motor
 ,Solar Panel
 
-// Original code from a Tinkercad project
+
